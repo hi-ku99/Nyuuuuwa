@@ -46,13 +46,13 @@
 以下のように，上司・部下それぞれの画面で，相手が送信したメッセージが柔和化されて表示されます．自身が送ったメッセージは原文そのまま表示されます．
 
 - **上司の画面**
-<img src="https://user-images.githubusercontent.com/67993065/213377758-575e2e0f-0f26-4e35-8f42-59fa5980fefb.png" width=330>
+<img src="https://user-images.githubusercontent.com/67993065/213377758-575e2e0f-0f26-4e35-8f42-59fa5980fefb.png" width=300>
 
 - **部下の画面**
-<img src="https://user-images.githubusercontent.com/67993065/213377764-7095dc05-4fa0-4c3d-82d2-58ab67b51343.png" width=330>
+<img src="https://user-images.githubusercontent.com/67993065/213377764-7095dc05-4fa0-4c3d-82d2-58ab67b51343.png" width=300>
 
 ### 2.2 システム構成図
-<img src="https://user-images.githubusercontent.com/67993065/213378980-42d3e2d9-a8e9-4611-b6ac-3f82f9d7398d.png" width=500>
+<img src="https://user-images.githubusercontent.com/67993065/213378980-42d3e2d9-a8e9-4611-b6ac-3f82f9d7398d.png" width=800>
 
 ## 3. 今後の展望
 
