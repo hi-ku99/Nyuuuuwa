@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nyuuuuwa</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!--    <string name="app_name">Your App Name</string>-->
+    <string name="sbutton">送信</string>
+    <string name="cbutton">切り替え</string>
+    <string name="hint">input</string>
+</resources>
